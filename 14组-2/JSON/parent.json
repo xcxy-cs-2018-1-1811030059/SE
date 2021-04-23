@@ -1,0 +1,28 @@
+{
+    "id":"ParentId",
+    "name":"Parent_name",
+    "phone":"phone_Number",
+    "student":[
+        {
+            "id":"id_student",
+            "name":"course_name"
+        }
+     
+    ],
+    "test":[
+        {
+            "test_id":"test_id_1",
+            "test_time":"test_time"
+        },
+        {
+            "test_id":"test_id_2",
+            "test_time":"test_time"
+        }
+    ],
+    "score":[
+        {
+            "couser_name":"couser_name",
+            "score":"score"
+        }
+    ]
+}

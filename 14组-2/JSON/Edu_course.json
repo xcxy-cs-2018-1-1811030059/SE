@@ -1,0 +1,8 @@
+{
+    "id":"course_id",
+    "title":"course title",
+    "date":"course start time",
+    "number":"course count",
+    "synopsis":"",
+    "form":"teaching form:online or offline"
+}

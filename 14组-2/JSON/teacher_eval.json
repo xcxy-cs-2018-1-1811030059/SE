@@ -1,0 +1,16 @@
+{
+    "id":"teacher_evaluation_id",
+    "name":"teacher_name",
+    "time":"evaluation_time",
+    "content":[
+        {
+
+        }
+    ],
+    "student":[
+        {
+            "id":"StudentId",
+            "name":"Student_name"
+        }
+    ]
+}

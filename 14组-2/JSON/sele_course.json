@@ -1,0 +1,27 @@
+{
+    "course_id":"course_id",
+    "name":"course_name",
+    "period":"study_of_course",
+    "testType":"characteristics_of_the_course",
+    "remark":"remark",
+    "student":[
+        {
+            "id":"StudentId_1",
+            "name":"Student_name"
+        },
+        {
+            "id":"StudentId_2",
+            "name":"Student_name"
+        }
+    ],
+    "teacher":[
+        {
+            "id":"TeacherId_1",
+            "name":"Teacher_name"
+        },
+        {
+            "id":"TeacherId_2",
+            "name":"Teacher_name"
+        }
+    ]
+}

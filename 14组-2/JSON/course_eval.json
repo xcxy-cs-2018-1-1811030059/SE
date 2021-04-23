@@ -1,0 +1,16 @@
+{
+    "id":"course_evaluation_id",
+    "name":"course_name",
+    "time":"evaluation_time",
+    "content":[
+        {
+
+        }
+    ],
+    "student":[
+        {
+            "id":"StudentId",
+            "name":"Student_name"
+        }
+    ]
+}

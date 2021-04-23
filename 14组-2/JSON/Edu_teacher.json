@@ -1,0 +1,10 @@
+{
+    "id":"teacher_id",
+    "name":"teacher_name",
+    "sex":"man or woman",
+    "phone":"phone number",
+    "e-mail":"mail address",
+    "education":"the teachers' education",
+    "qualifications":"teachers' educate experience",
+    "major":"teachers' profession"
+}
